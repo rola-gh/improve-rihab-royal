@@ -1,0 +1,57 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/My Passport Pro/WORK/work pro/Riam/work/Rihab royal/Rihab royal Profile.pdf/Document fonts/AdobeFnt21.lst
+FileLength:1328
+FileModTime:623017691
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cairo-Regular
+FamilyName:Cairo
+StyleName:Regular
+MenuName:Cairo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cairo-Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/My Passport Pro/WORK/work pro/Riam/work/Rihab royal/Rihab royal Profile.pdf/Document fonts/Cairo-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128672
+FileModTime:487349612
+NameArray:0,Mac,4,Cairo
+NameArray:0,Win,1,Cairo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inspiration
+FamilyName:Inspiration
+StyleName:Regular
+MenuName:Inspiration
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Inspiration
+WritingScript:Roman
+OutlineFileName:/Volumes/My Passport Pro/WORK/work pro/Riam/work/Rihab royal/Rihab royal Profile.pdf/Document fonts/Inspiration_ROB.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62816
+FileModTime:477673817
+NameArray:0,Mac,4,Inspiration
+NameArray:0,Win,1,Inspiration
+%EndFont
+
